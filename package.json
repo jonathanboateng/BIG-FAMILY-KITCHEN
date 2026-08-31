@@ -1,0 +1,23 @@
+{
+  "name": "big-family-kitchen",
+  "version": "1.0.0",
+  "description": "Big Family Kitchen — authentic Ghanaian dishes, cooked fresh daily in Adenta, Accra",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanboateng/BIG-FAMILY-KITCHEN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanboateng/BIG-FAMILY-KITCHEN/issues"
+  },
+  "homepage": "https://github.com/jonathanboateng/BIG-FAMILY-KITCHEN#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
